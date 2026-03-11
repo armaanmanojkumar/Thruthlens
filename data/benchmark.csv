@@ -1,0 +1,6 @@
+id,question,trusted_context,gold_answer,topic,difficulty
+1,What is overfitting in machine learning?,Overfitting occurs when a model learns patterns and noise specific to the training dataset instead of general patterns that apply to unseen data.,Overfitting is when a model fits training data too closely and performs poorly on new data.,AI/ML,easy
+2,What does multi-factor authentication do?,Multi-factor authentication requires two or more verification factors such as password and phone verification to improve security.,It increases security by requiring more than one verification factor.,cybersecurity,easy
+3,What is phishing?,Phishing is a cyber attack where attackers impersonate legitimate organizations to trick users into revealing sensitive information.,Phishing is a scam where attackers trick users into giving sensitive information.,cybersecurity,easy
+4,What does regularization do in machine learning?,Regularization adds a penalty to model complexity to reduce overfitting and improve generalization.,Regularization reduces overfitting by penalizing overly complex models.,AI/ML,medium
+5,Are personal USB drives allowed on company laptops?,Company security policy states that personal USB drives are prohibited on company-managed laptops unless explicitly approved by IT.,No personal USB drives are allowed unless IT approves them.,policy,medium
